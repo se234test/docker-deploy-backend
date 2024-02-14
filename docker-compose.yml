@@ -3,4 +3,4 @@ services:
   backend:
     image: ownny/234-deploylab-backend:latest
     ports:
-      - "8085:80"
+      - "8085:8080"
