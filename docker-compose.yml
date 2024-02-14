@@ -1,6 +1,6 @@
 version: '3.3'
 services:
   backend:
-    image: ownny/234-deploylab-backend:lateset
+    image: ownny/234-deploylab-backend:latest
     ports:
       - "8085:80"
